@@ -16,9 +16,7 @@
 	<link rel="stylesheet" href="css/nouislider.min.css">
 	<link rel="stylesheet" href="css/bootstrap.css">
 	<link rel="stylesheet" href="css/main.css">
-	<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap" rel="stylesheet">
-	<link href="https://fonts.googleapis.com/css2?family=Share+Tech&display=swap" rel="stylesheet">
-
+	<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Lora:wght@400&display=swap" rel="stylesheet">
 	<style>
 		.single-product img {
 			width: 100%;
@@ -33,15 +31,22 @@
 		.banner-area {
 			padding: 120px 0;
 			position: relative;
-			background: linear-gradient(135deg, rgba(15, 81, 15, 0.6), rgba(25, 80, 135, 0.6)), url('img/banner/banner_cat.jpg');
+			background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('img/banner/banner_cat1.jpg');
 			color: #FFFFFF;
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			align-items: center;
+			min-height: 75%;
+		}
+		.banner-content {
+			text-align: center;
 		}
 		.banner-content h1 {
-			font-family: 'Lora', serif;
+			font-family: 'Playfair Display', serif;
 			font-size: 48px;
 			font-weight: 700;
 			color: #FFFFFF;
-			text-align: left;
 			padding: 15px 0;
 			line-height: 1.2;
 			text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
@@ -52,11 +57,10 @@
 			text-shadow: 0 0 10px rgba(0, 200, 83, 0.5);
 		}
 		.banner-content .slogan {
-			font-family: 'Lora', serif;
+			font-family: 'Playfair Display', serif;
 			font-size: 24px;
 			font-weight: 400;
 			color: #FFFFFF;
-			text-align: left;
 			margin: 10px 0 20px;
 			line-height: 1.4;
 			text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
@@ -71,34 +75,18 @@
 			padding: 12px 30px;
 			background: #033803;
 			color: #FFFFFF;
-			font-family: 'Montserrat', sans-serif;
+			font-family: 'Lora', serif;
 			font-size: 16px;
 			font-weight: 700;
 			text-transform: uppercase;
 			border-radius: 5px;
 			text-decoration: none;
 			transition: background 0.3s ease, transform 0.2s ease;
+			margin-top: 20px;
 		}
 		.banner-content .btn-cta:hover {
 			background: #00C853;
 			transform: translateY(-2px);
-		}
-		.banner-image img {
-			width: 400px;
-			height: 600px;
-			object-fit: cover;
-			border: 3px solid #FFFFFF;
-			border-radius: 10px;
-			transition: box-shadow 0.3s ease;
-		}
-		.banner-image img:hover {
-			box-shadow: 0 0 15px rgba(0, 200, 83, 0.8);
-		}
-		@media (max-width: 991px) {
-			.banner-image img {
-				width: 200px;
-				height: 200px;
-			}
 		}
 		@media (max-width: 768px) {
 			.banner-area {
@@ -106,18 +94,13 @@
 			}
 			.banner-content h1 {
 				font-size: 32px;
-				text-align: center;
 			}
 			.banner-content .slogan {
 				font-size: 18px;
-				text-align: center;
 			}
 			.banner-content .btn-cta {
 				padding: 10px 20px;
 				font-size: 14px;
-			}
-			.banner-image {
-				display: none;
 			}
 		}
 	</style>
@@ -156,17 +139,14 @@
 	</header>
 	<section class="banner-area">
 		<div class="container">
-			<div class="row align-items-center justify-content-between">
-				<div class="col-lg-6 col-md-6">
+			<div class="row justify-content-center">
+				<div class="col-lg-12">
 					<div class="banner-content">
 						<h1>Shop Products</h1>
 						<p class="slogan">Good for you, good for the planet: Explore our natural rubber.</p>
 						<!-- <a href="#product-container" class="btn-cta">EXPLORE NOW</a> -->
 					</div>
 				</div>
-				<!-- <div class="col-lg-6 col-md-6 text-right banner-image">
-					<img src="img/banner/banner_cat.jpg" alt="Category Banner">
-				</div> -->
 			</div>
 		</div>
 	</section>
