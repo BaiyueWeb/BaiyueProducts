@@ -96,30 +96,6 @@
     }
   },
   {
-    "id": 8,
-    "Product name": "Natural Rubber RSS1",
-    "Product Keyword": null,
-    "Product Description": "Feature: standard grade\n\nUsage: footwear\n\nMaterial: Natural Rubber Color: YELLOW LIGHT Packing: Wooden Pallets; Shrinkwrapped packing; Loose bales packing Shape: sheet Packing details: 33.33kg Whatsapp & Wechat: (+84) 81 383 3126",
-    "Product Pictures": [
-      "./img/product/RSS1.jpg"
-    ],
-    "specification": {
-      "Product group": "Rubber & Plastics",
-      "Place of origin": "Vietnam",
-      "Brand name": "Dong Nai",
-      "Model number": "RSS1",
-      "FOB Currency": "USD",
-      "Unit": "tons",
-      "FOB": "$1200- 1300",
-      "MOQ": "20 tons",
-      "Accepted payment type": "LC, Money gram",
-      "Shipping": "Shipping fee and delivery date to be negotiated. Chat with supplier now for more details.",
-      "Shipping Port": "Cat Lai port",
-      "Quantities & units": "100 tons/month",
-      "Packing Detail": "33.33kilos each: each export container 20’ may contain from 20 ton (600 bales) to 21 ton (630 bales)."
-    }
-  },
-  {
     "id": 9,
     "Product name": "Natural Rubber RSS2",
     "Product Keyword": null,
@@ -327,6 +303,30 @@
       "FOB Currency": "USD",
       "Unit": "tons",
       "FOB": "$1700- 2000",
+      "MOQ": "20 tons",
+      "Accepted payment type": "LC, Money gram",
+      "Shipping": "Shipping fee and delivery date to be negotiated. Chat with supplier now for more details.",
+      "Shipping Port": "Cat Lai port",
+      "Quantities & units": "100 tons/month",
+      "Packing Detail": "33.33kilos each: each export container 20’ may contain from 20 ton (600 bales) to 21 ton (630 bales)."
+    }
+  },
+  {
+    "id": 8,
+    "Product name": "Natural Rubber RSS1",
+    "Product Keyword": null,
+    "Product Description": "Feature: standard grade\n\nUsage: footwear\n\nMaterial: Natural Rubber Color: YELLOW LIGHT Packing: Wooden Pallets; Shrinkwrapped packing; Loose bales packing Shape: sheet Packing details: 33.33kg Whatsapp & Wechat: (+84) 81 383 3126",
+    "Product Pictures": [
+      "./img/product/RSS1.jpg"
+    ],
+    "specification": {
+      "Product group": "Rubber & Plastics",
+      "Place of origin": "Vietnam",
+      "Brand name": "Dong Nai",
+      "Model number": "RSS1",
+      "FOB Currency": "USD",
+      "Unit": "tons",
+      "FOB": "$1850- 2000",
       "MOQ": "20 tons",
       "Accepted payment type": "LC, Money gram",
       "Shipping": "Shipping fee and delivery date to be negotiated. Chat with supplier now for more details.",
