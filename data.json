@@ -48,30 +48,6 @@
     }
   },
   {
-    "id": 5,
-    "Product name": "Natural Rubber Latex",
-    "Product Keyword": "NATURAL RUBBERHigh quality natural rubberNatural rubber in VietnamHighly flexible natural rubberNatural rubber from VietnamLong-lasting natural rubber",
-    "Product Description": "Feature: High crystallinity (HCPP), standard grade, high temperature resistance\n\nUsage: profiles\n\nMaterial: Natural Rubber Color: Milky white Shape: liquid Quality: High Quality Whatsapp & Wechat: (+84) 81 383 3126",
-    "Product Pictures": [
-      "./img/product/Latex.jpg"
-    ],
-    "specification": {
-      "Product group": "Rubber & Plastics",
-      "Place of origin": "Vietnam",
-      "Brand name": "Dong Nai",
-      "Model number": "Latex",
-      "FOB Currency": "USD",
-      "Unit": "tons",
-      "FOB": "$1200- 1300",
-      "MOQ": "20 tons",
-      "Accepted payment type": "LC, Money gram",
-      "Shipping": "Shipping fee and delivery date to be negotiated. Chat with supplier now for more details.",
-      "Shipping Port": "Cat Lai port",
-      "Quantities & units": "100 tons/month",
-      "Packing Detail": "33.33kilos each: each export container 20’ may contain from 20 ton (600 bales) to 21 ton (630 bales)."
-    }
-  },
-  {
     "id": 7,
     "Product name": "Natural Rubber SV 5",
     "Product Keyword": null,
@@ -324,6 +300,30 @@
       "Place of origin": "Vietnam",
       "Brand name": "Dong Nai",
       "Model number": "Rubber Cup Lump",
+      "FOB Currency": "USD",
+      "Unit": "tons",
+      "FOB": "$1200- 1400",
+      "MOQ": "20 tons",
+      "Accepted payment type": "LC, Money gram",
+      "Shipping": "Shipping fee and delivery date to be negotiated. Chat with supplier now for more details.",
+      "Shipping Port": "Cat Lai port",
+      "Quantities & units": "100 tons/month",
+      "Packing Detail": "33.33kilos each: each export container 20’ may contain from 20 ton (600 bales) to 21 ton (630 bales)."
+    }
+  },
+  {
+    "id": 5,
+    "Product name": "Natural Rubber Latex",
+    "Product Keyword": "NATURAL RUBBERHigh quality natural rubberNatural rubber in VietnamHighly flexible natural rubberNatural rubber from VietnamLong-lasting natural rubber",
+    "Product Description": "Feature: High crystallinity (HCPP), standard grade, high temperature resistance\n\nUsage: profiles\n\nMaterial: Natural Rubber Color: Milky white Shape: liquid Quality: High Quality Whatsapp & Wechat: (+84) 81 383 3126",
+    "Product Pictures": [
+      "./img/product/Latex.jpg"
+    ],
+    "specification": {
+      "Product group": "Rubber & Plastics",
+      "Place of origin": "Vietnam",
+      "Brand name": "Dong Nai",
+      "Model number": "Latex",
       "FOB Currency": "USD",
       "Unit": "tons",
       "FOB": "$1200- 1400",
