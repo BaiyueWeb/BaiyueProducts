@@ -72,30 +72,6 @@
     }
   },
   {
-    "id": 6,
-    "Product name": "Natural Rubber SVR 20",
-    "Product Keyword": null,
-    "Product Description": "Feature: High Elasticity, Abrasion Resistance, Heat and Chem\n\nUsage: Car Tires, Belts and Electric Cables, Sports equip\n\nMaterial: Natural Rubber Color: Dark Brown Shape: Bale Packaging: Loose Bales, Pallet PAYMENT: T/T, L/C, 30% deposit + 70% balance Whatsapp & Wechat: (+84) 81 383 3126",
-    "Product Pictures": [
-      "./img/product/SVR 20.jpg"
-    ],
-    "specification": {
-      "Product group": "Rubber & Plastics",
-      "Place of origin": "Vietnam",
-      "Brand name": "Dong Nai",
-      "Model number": "SVR 20",
-      "FOB Currency": "USD",
-      "Unit": "tons",
-      "FOB": "$1200- 1300",
-      "MOQ": "20 tons",
-      "Accepted payment type": "LC, Money gram",
-      "Shipping": "Shipping fee and delivery date to be negotiated. Chat with supplier now for more details.",
-      "Shipping Port": "Cat Lai port",
-      "Quantities & units": "100 tons/month",
-      "Packing Detail": "33.33kilos each: each export container 20’ may contain from 20 ton (600 bales) to 21 ton (630 bales)."
-    }
-  },
-  {
     "id": 7,
     "Product name": "Natural Rubber SV 5",
     "Product Keyword": null,
@@ -327,6 +303,30 @@
       "FOB Currency": "USD",
       "Unit": "tons",
       "FOB": "$1750-2000",
+      "MOQ": "20 tons",
+      "Accepted payment type": "LC, Money gram",
+      "Shipping": "Shipping fee and delivery date to be negotiated. Chat with supplier now for more details.",
+      "Shipping Port": "Cat Lai port",
+      "Quantities & units": "100 tons/month",
+      "Packing Detail": "33.33kilos each: each export container 20’ may contain from 20 ton (600 bales) to 21 ton (630 bales)."
+    }
+  },
+  {
+    "id": 6,
+    "Product name": "Natural Rubber SVR 20",
+    "Product Keyword": null,
+    "Product Description": "Feature: High Elasticity, Abrasion Resistance, Heat and Chem\n\nUsage: Car Tires, Belts and Electric Cables, Sports equip\n\nMaterial: Natural Rubber Color: Dark Brown Shape: Bale Packaging: Loose Bales, Pallet PAYMENT: T/T, L/C, 30% deposit + 70% balance Whatsapp & Wechat: (+84) 81 383 3126",
+    "Product Pictures": [
+      "./img/product/SVR 20.jpg"
+    ],
+    "specification": {
+      "Product group": "Rubber & Plastics",
+      "Place of origin": "Vietnam",
+      "Brand name": "Dong Nai",
+      "Model number": "SVR 20",
+      "FOB Currency": "USD",
+      "Unit": "tons",
+      "FOB": "$1700- 2000",
       "MOQ": "20 tons",
       "Accepted payment type": "LC, Money gram",
       "Shipping": "Shipping fee and delivery date to be negotiated. Chat with supplier now for more details.",
