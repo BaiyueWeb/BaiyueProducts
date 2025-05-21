@@ -264,30 +264,6 @@
     }
   },
   {
-    "id": 14,
-    "Product name": "Latex HA Rubber",
-    "Product Keyword": null,
-    "Product Description": "Rubber & Plastics",
-    "Product Pictures": [
-      "./img/product/Latex HA.jpg"
-    ],
-    "specification": {
-      "Product group": "Rubber & Plastics",
-      "Place of origin": "Vietnam",
-      "Brand name": "Dong Nai",
-      "Model number": "1223",
-      "FOB Currency": "USD",
-      "Unit": "tons",
-      "FOB": "$1250-1500",
-      "MOQ": "20 tons",
-      "Accepted payment type": "LC, Money gram",
-      "Shipping": "Shipping fee and delivery date to be negotiated. Chat with supplier now for more details.",
-      "Shipping Port": "Cat Lai port",
-      "Quantities & units": "100 tons/month",
-      "Packing Detail": "33.33kilos each: each export container 20’ may contain from 20 ton (600 bales) to 21 ton (630 bales)."
-    }
-  },
-  {
     "id": 13,
     "Product name": "Natural Rubber Cup Lump",
     "Product Keyword": null,
@@ -327,6 +303,30 @@
       "FOB Currency": "USD",
       "Unit": "tons",
       "FOB": "$1750- 2000",
+      "MOQ": "20 tons",
+      "Accepted payment type": "LC, Money gram",
+      "Shipping": "Shipping fee and delivery date to be negotiated. Chat with supplier now for more details.",
+      "Shipping Port": "Cat Lai port",
+      "Quantities & units": "100 tons/month",
+      "Packing Detail": "33.33kilos each: each export container 20’ may contain from 20 ton (600 bales) to 21 ton (630 bales)."
+    }
+  },
+  {
+    "id": 14,
+    "Product name": "Latex HA Rubber",
+    "Product Keyword": null,
+    "Product Description": "Rubber & Plastics",
+    "Product Pictures": [
+      "./img/product/Latex HA.jpg"
+    ],
+    "specification": {
+      "Product group": "Rubber & Plastics",
+      "Place of origin": "Vietnam",
+      "Brand name": "Dong Nai",
+      "Model number": "1223",
+      "FOB Currency": "USD",
+      "Unit": "tons",
+      "FOB": "$1250-1500",
       "MOQ": "20 tons",
       "Accepted payment type": "LC, Money gram",
       "Shipping": "Shipping fee and delivery date to be negotiated. Chat with supplier now for more details.",
