@@ -1,28 +1,4 @@
 [
-    {
-    "id": 1,
-    "Product name": "Natural Rubber SVR3L",
-    "Product Keyword": "NATURAL RUBBERHigh quality natural rubberNatural rubber in VietnamHighly flexible natural rubberNatural rubber from VietnamLong-lasting natural rubber",
-    "Product Description": "Feature: standard grade\n\nApplication: Automotive parts\n\nSpecificity: rebound resilience\n\nMaterial: Natural Rubber Color: Brown Packing: Clients' Requirement Quality: High Quality Whatsapp & Wechat: (+84) 81 383 3126\n\nSample: free",
-    "Product Pictures": [
-      "./img/product/SVR3L.jpg"
-    ],
-    "specification": {
-      "Product group": "Rubber & Plastics",
-      "Place of origin": "Vietnam",
-      "Brand name": "Dong Nai",
-      "Model number": "SVR3L",
-      "FOB Currency": "USD",
-      "Unit": "tons",
-      "FOB": "$1200- 1300",
-      "MOQ": "20 tons",
-      "Accepted payment type": "LC, Money gram",
-      "Shipping": "Shipping fee and delivery date to be negotiated. Chat with supplier now for more details.",
-      "Shipping Port": "Cat Lai port",
-      "Quantities & units": "100 tons/month",
-      "Packing Detail": "33.33kilos each: each export container 20’ may contain from 20 ton (600 bales) to 21 ton (630 bales)."
-    }
-  },
   {
     "id": 2,
     "Product name": "Natural Rubber SVR 10",
@@ -328,6 +304,30 @@
       "Unit": "tons",
       "FOB": "$1200-1300",
       "MOQ": "20 tons",
+      "Accepted payment type": "LC, Money gram",
+      "Shipping": "Shipping fee and delivery date to be negotiated. Chat with supplier now for more details.",
+      "Shipping Port": "Cat Lai port",
+      "Quantities & units": "100 tons/month",
+      "Packing Detail": "33.33kilos each: each export container 20’ may contain from 20 ton (600 bales) to 21 ton (630 bales)."
+    }
+  },
+  {
+    "id": 1,
+    "Product name": "Natural Rubber SVR3L",
+    "Product Keyword": "NATURAL RUBBERHigh quality natural rubberNatural rubber in VietnamHighly flexible natural rubberNatural rubber from VietnamLong-lasting natural rubber",
+    "Product Description": "Feature: standard grade\n\nApplication: Automotive parts\n\nSpecificity: rebound resilience\n\nMaterial: Natural Rubber Color: Brown Packing: Clients' Requirement Quality: High Quality Whatsapp & Wechat: (+84) 81 383 3126\n\nSample: free",
+    "Product Pictures": [
+      "./img/product/SVR3L.jpg"
+    ],
+    "specification": {
+      "Product group": "Rubber & Plastics",
+      "Place of origin": "Vietnam",
+      "Brand name": "Dong Nai",
+      "Model number": "SVR3L",
+      "FOB Currency": "USD",
+      "Unit": "tons",
+      "FOB": "$1800-2000",
+      "MOQ": "1 tons",
       "Accepted payment type": "LC, Money gram",
       "Shipping": "Shipping fee and delivery date to be negotiated. Chat with supplier now for more details.",
       "Shipping Port": "Cat Lai port",
